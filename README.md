@@ -12,10 +12,10 @@ Welcome to the Python Notes Repository! This repository contains comprehensive P
 #### Nummpy.pdf - Notes for NumPy library
 #### Numpy.ipynb - Introduction to NumPy library for numerical computing.
 #### Pandas.pdf - Introduction to Pandas library for data manipulation and analysis.
+#### Patterns.ipynb - Patterns and pattern printing examples in Python.
 #### Python Lab.ipynb - Practical lab exercises for Python programming.
 #### Python Lab.docx - Lab exercises in a Word document format.
 #### Python Lab.pdf - Lab exercises in a PDF format.
-#### Patterns.ipynb - Patterns and pattern printing examples in Python.
 
 # Extra
 #### Sales.csv - Example CSV file for data analysis exercises.
