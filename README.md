@@ -17,15 +17,15 @@ Welcome to the Python Notes Repository! This repository contains comprehensive P
 #### Python Lab.pdf - Lab exercises in a PDF format.
 #### Patterns.ipynb - Patterns and pattern printing examples in Python.
 
-#### Extra
+# Extra
 #### Sales.csv - Example CSV file for data analysis exercises.
 #### Parameter vs Argument.png - Image illustrating the difference between parameters and arguments.
 #### Precedence of Operator.jpg - Image showing operator precedence in Python.
 #### Virtual Environment.png - Visual guide on setting up virtual environments for Python projects.
 
 # How to Use
-Clone the repository to your local machine using git clone.
-Navigate through folders corresponding to each topic of interest.
-Open .ipynb files using Jupyter Notebook or any compatible environment to interact with Python code directly.
-Use lab exercises (Python Lab.ipynb, Python Lab.docx, Python Lab.pdf) for practical application.
-Explore images (Parameter vs Argument.png, Precedence of Operator.jpg, Virtual Environment.png) for visual explanations.
+#### Clone the repository to your local machine using git clone.
+#### Navigate through folders corresponding to each topic of interest.
+#### Open .ipynb files using Jupyter Notebook or any compatible environment to interact with Python code directly.
+#### Use lab exercises (Python Lab.ipynb, Python Lab.docx, Python Lab.pdf) for practical application.
+#### Explore images (Parameter vs Argument.png, Precedence of Operator.jpg, Virtual Environment.png) for visual explanations.
