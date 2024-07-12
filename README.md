@@ -2,8 +2,8 @@
 Welcome to the Python Notes Repository! This repository contains comprehensive Python notes covering theory, code examples, and lab exercises for hands-on practice. Whether you are a beginner or looking to refresh your Python skills, you'll find useful resources organized by topic.
 
 Repository Structure
-Python Basics.ipynb: Introduction to Python programming language.
-Data Structures.ipynb: Overview of lists, tuples, sets, and dictionaries in Python.
+#### Python Basics.ipynb: Introduction to Python programming language.
+#### Data Structures.ipynb: Overview of lists, tuples, sets, and dictionaries in Python.
 OOPS.ipynb: Object-Oriented Programming in Python.
 Patterns.ipynb: Patterns and pattern printing in Python.
 Python Lab.pdf, Python Lab.ipynb, Python Lab.docx: Lab exercises for practical learning.
