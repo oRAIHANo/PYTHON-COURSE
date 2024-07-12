@@ -2,20 +2,20 @@
 Welcome to the Python Notes Repository! This repository contains comprehensive Python notes covering theory, code examples, and lab exercises for hands-on practice. Whether you are a beginner or looking to refresh your Python skills, you'll find useful resources organized by topic.
 
 # Repository Structure
-#### Python Basics.ipynb - Introduction to Python programming language basics.
-#### Data Structures.ipynb - Overview of data structures like lists, tuples, sets, and dictionaries in Python.
-#### List and Tuple.ipynb - Specific focus on lists and tuples in Python.
-#### Sets.ipynb - Detailed coverage of sets in Python.
-#### Dictionary.ipynb - In-depth exploration of dictionaries in Python.
-#### OOP.pdf - Notes for Object-Oriented Programming (OOP) concepts in Python.
-#### OOPS.ipynb - Guide to Object-Oriented Programming (OOP) concepts in Python.
-#### Nummpy.pdf - Notes for NumPy library
-#### Numpy.ipynb - Introduction to NumPy library for numerical computing.
-#### Pandas.pdf - Introduction to Pandas library for data manipulation and analysis.
-#### Patterns.ipynb - Patterns and pattern printing examples in Python.
-#### Python Lab.ipynb - Practical lab exercises for Python programming.
-#### Python Lab.docx - Lab exercises in a Word document format.
-#### Python Lab.pdf - Lab exercises in a PDF format.
+#### 1 Python Basics.ipynb - Introduction to Python programming language basics.
+#### 2 Data Structures.ipynb - Overview of data structures like lists, tuples, sets, and dictionaries in Python.
+#### 3 List and Tuple.ipynb - Specific focus on lists and tuples in Python.
+#### 4 Sets.ipynb - Detailed coverage of sets in Python.
+#### 5 Dictionary.ipynb - In-depth exploration of dictionaries in Python.
+#### 6 OOP.pdf - Notes for Object-Oriented Programming (OOP) concepts in Python.
+#### 7 OOPS.ipynb - Guide to Object-Oriented Programming (OOP) concepts in Python.
+#### 8 Nummpy.pdf - Notes for NumPy library
+#### 9 Numpy.ipynb - Introduction to NumPy library for numerical computing.
+#### 10 Pandas.pdf - Introduction to Pandas library for data manipulation and analysis.
+#### 11 Patterns.ipynb - Patterns and pattern printing examples in Python.
+#### 12 Python Lab.ipynb - Practical lab exercises for Python programming.
+#### 13 Python Lab.docx - Lab exercises in a Word document format.
+#### 14 Python Lab.pdf - Lab exercises in a PDF format.
 
 # Extra
 #### Sales.csv - Example CSV file for data analysis exercises.
