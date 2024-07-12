@@ -1,7 +1,7 @@
 # Python Notes Repository
 Welcome to the Python Notes Repository! This repository contains comprehensive Python notes covering theory, code examples, and lab exercises for hands-on practice. Whether you are a beginner or looking to refresh your Python skills, you'll find useful resources organized by topic.
 
-Repository Structurex
+Repository Structure
 #### Python Basics.ipynb: Introduction to Python programming language.
 #### Data Structures.ipynb: Overview of lists, tuples, sets, and dictionaries in Python.
 OOPS.ipynb: Object-Oriented Programming in Python.
@@ -12,6 +12,7 @@ Pandas.pdf: Introduction to Pandas library.
 Sales.csv: Example CSV file for data analysis exercises.
 Parameter vs Argument.png: Image illustrating the difference between parameters and arguments.
 Precedence of Operator.jpg: Image showing operator precedence in Python.
+
 README.md: You are here!
 How to Use
 Clone the repository to your local machine using git clone.
