@@ -7,37 +7,21 @@ Welcome to the Python Notes Repository! This repository contains comprehensive P
 #### List and Tuple.ipynb - Specific focus on lists and tuples in Python.
 #### Sets.ipynb - Detailed coverage of sets in Python.
 #### Dictionary.ipynb - In-depth exploration of dictionaries in Python.
+#### OOP.pdf - Notes for Object-Oriented Programming (OOP) concepts in Python.
 #### OOPS.ipynb - Guide to Object-Oriented Programming (OOP) concepts in Python.
-Patterns.ipynb
+#### Nummpy.pdf - Notes for NumPy library
+#### Numpy.ipynb - Introduction to NumPy library for numerical computing.
+#### Pandas.pdf - Introduction to Pandas library for data manipulation and analysis.
+#### Python Lab.ipynb - Practical lab exercises for Python programming.
+#### Python Lab.docx - Lab exercises in a Word document format.
+#### Python Lab.pdf - Lab exercises in a PDF format.
+#### Patterns.ipynb - Patterns and pattern printing examples in Python.
 
-Patterns and pattern printing examples in Python.
-Numpy.ipynb
-
-Introduction to NumPy library for numerical computing.
-Pandas.pdf
-
-Introduction to Pandas library for data manipulation and analysis.
-Python Lab.ipynb
-
-Practical lab exercises for Python programming.
-Python Lab.docx
-
-Lab exercises in a Word document format.
-Python Lab.pdf
-
-Lab exercises in a PDF format.
-Sales.csv
-
-Example CSV file for data analysis exercises.
-Parameter vs Argument.png
-
-Image illustrating the difference between parameters and arguments.
-Precedence of Operator.jpg
-
-Image showing operator precedence in Python.
-Virtual Environment.png
-
-Visual guide on setting up virtual environments for Python projects.
+#### Extra
+#### Sales.csv - Example CSV file for data analysis exercises.
+#### Parameter vs Argument.png - Image illustrating the difference between parameters and arguments.
+#### Precedence of Operator.jpg - Image showing operator precedence in Python.
+#### Virtual Environment.png - Visual guide on setting up virtual environments for Python projects.
 
 # How to Use
 Clone the repository to your local machine using git clone.
